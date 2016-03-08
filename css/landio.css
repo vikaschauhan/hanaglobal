@@ -9158,6 +9158,12 @@ body {
 	
 	border-radius: 0
 }
+.jumbotron-second {
+	
+	background: #663fb5 url(../img/second-background.jpg) no-repeat center bottom;
+	background-size: cover;
+	
+}
 
 @media (max-width: 767px) {
 	.jumbotron {
