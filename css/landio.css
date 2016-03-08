@@ -66,7 +66,7 @@
 }
 
 .icon-sketch:before {
-	content: "\e600"
+	content: "\e907"
 }
 
 .icon-search:before {
@@ -94,7 +94,10 @@
 }
 
 .icon-heart:before {
-	content: "\e607"
+	content: "\e903"
+}
+.icon-Presstool:before {
+	content: "\e902"
 }
 
 .icon-linkedin:before {
@@ -106,11 +109,11 @@
 }
 
 .icon-logo:before {
-	content: "\e900"
+	content: "\e901"
 }
 
 .icon-pen:before {
-	content: "\e60b"
+	content: "\e900"
 }
 
 .icon-tag:before {
@@ -118,7 +121,7 @@
 }
 
 .icon-thunderbolt:before {
-	content: "\e60d"
+	content: "\e905"
 }
 
 .icon-time:before {
