@@ -1,4 +1,4 @@
-	@import "https://fonts.googleapis.com/css?family=Raleway:400,600,500,300,700|Lato:400,700";
+	
 @font-face {
 	font-family: 'icomoon';
 	src: url("fonts/icomoon.eot?-fnljg0");
@@ -7,18 +7,7 @@
 	font-style: normal
 }
 
-[class^="icon-"],
-[class*=" icon-"] {
-	font-family: 'icomoon';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale
-}
+
 
 .icon-arrow-right:before {
 	content: "\e61a"
@@ -131,10 +120,7 @@ audio:not([controls]) {
 	height: 0
 }
 
-[hidden],
-template {
-	display: none
-}
+
 
 a {
 	background-color: transparent
